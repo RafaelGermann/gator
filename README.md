@@ -55,3 +55,7 @@ There are a few other commands you'll need as well:
 - `gator feeds` - List all feeds
 - `gator follow <url>` - Follow a feed that already exists in the database
 - `gator unfollow <url>` - Unfollow a feed that already exists in the database
+
+- ## License
+
+This project was created as part of the Boot.dev Go course for educational purposes. 
